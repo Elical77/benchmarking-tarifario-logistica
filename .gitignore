@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.xlsx
+*.xlsm
+*.csv
+*.pbix
+*.pdf
+*.docx
+*.zip
+.env
