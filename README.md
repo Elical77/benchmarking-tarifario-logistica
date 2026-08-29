@@ -106,7 +106,7 @@ benchmarking-tarifario-logistica/
 
 Video demostrativo:
 
-[▶ Ver demo del Benchmark Tarifario](https://youtu.be/CZrx_BGVQXQ)
+[▶ Ver demo del Benchmark Tarifario](https://www.youtube.com/watch?v=CzxwdPQMUhU)
 ```
 
 ## Nota sobre los datos
