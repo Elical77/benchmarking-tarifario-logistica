@@ -101,6 +101,12 @@ benchmarking-tarifario-logistica/
 ├── docs/
 │
 └── README.md
+
+## Demo del proyecto
+
+Video demostrativo:
+
+[▶ Ver demo del Benchmark Tarifario](https://youtu.be/CZrx_BGVQXQ)
 ```
 
 ## Nota sobre los datos
